@@ -40,7 +40,7 @@ Its goal is to create ethical, technical, and legal clarity between:
   "human_contribution": ["lyrics", "melody", "arrangement"],
   "tools_used": ["Ableton Live", "Suno", "ElevenLabs"],
   "license": "CC-BY 4.0"
-}`}`)
+`}`)
 <p align="center"> <sub>🌐 github.com/pashashtarskiy/AIMMS</sub> </p> ```
 ⚙️ Implementation Goals
 Establish common tags for AI/human collaboration.
