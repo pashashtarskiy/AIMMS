@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_aimms.png" width="180" alt="AIMMS Logo"/>
+  <img src="aimms_logo.png" width="180" alt="AIMMS Logo"/>
 </p>
 
 # 🎵 AIMMS — Artificial Intelligence Music Metadata Standard
@@ -42,68 +42,6 @@ Its goal is to create ethical, technical, and legal clarity between:
   "tools_used": ["Ableton Live", "Suno", "ElevenLabs"],
   "license": "CC-BY 4.0"
 }
-
----
-
-### ⚙️ Implementation Goals
-- Establish common tags for AI/human collaboration.
-- Enable ethical disclosure for AI voice, text, and music models.
-- Support integration with DSPs (Spotify, Apple Music, etc.).
-- Ensure long-term interoperability between creators and platforms.
-
----
-
-### 🤝 Contribute
-AIMMS is an open initiative.  
-You can:
-- Fork this repository
-- Submit issues or pull requests
-- Share feedback via GitHub Discussions
-
----
-
-### 🪙 Attribution
-**AIMMS — Artificial Intelligence Music Metadata Standard**  
-Created by [Pasha Shtarskiy](https://github.com/pashashtarskiy)  
-Logo © 2025 AIMMS Initiative.  
-License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
----
-
-<p align="center">
-  <sub>🌐 github.com/pashashtarskiy/AIMMS</sub>
-</p>
-
-
-# ![AIMMS Logo](https://raw.githubusercontent.com/pashashtarskiy/AIMMS/main/aimms_logo.png)
-
-# AIMMS — Artificial Intelligence Music Metadata Standard  
-### Open Initiative by Pasha Shtarskiy
-
----
-
-## 🎯 Mission
-AIMMS (Artificial Intelligence Music Metadata Standard) is an open initiative to create a unified, transparent and ethical framework for describing, distributing, and attributing music created **with** or **by** artificial intelligence.
-
-Our goal is to help artists, developers, labels, and distributors speak one common language — through standardized metadata fields that define authorship, creative contribution, and AI involvement.
-
----
-
-## 🧩 Why It Matters
-The music industry is facing chaos:
-- No clear rules for identifying AI-assisted works.
-- Distributors have inconsistent policies — some reject AI music, others charge extra.
-- Artists are unsure how to disclose their use of AI tools.
-- Listeners lack transparency about what they hear.
-
-AIMMS proposes a **metadata-based solution**, not a legal one — a technical layer for clarity, trust, and accountability.
-
----
-
-## 🧱 Core Principles
-
-1. **Transparency by Design**  
-   Every track should include metadata fields defining which elements were created by AI and which by humans.
 
 2. **Creator-Centric Ownership**  
    If the creative intent, structure, and supervision belong to the artist, the track is *artist-owned* — even if AI tools are involved.
