@@ -43,6 +43,9 @@ Its goal is to create ethical, technical, and legal clarity between:
   "tools_used": ["Ableton Live", "Suno", "ElevenLabs"],
   "license": "CC-BY 4.0"
 }
+
+```
+
 ⚙️ Implementation Goals
 
 Establish common tags for AI/human collaboration.
