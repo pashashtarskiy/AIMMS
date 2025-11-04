@@ -23,7 +23,7 @@ Its goal is to create ethical, technical, and legal clarity between:
 | Document | Description |
 |-----------|-------------|
 | [AIMMS Policy Brief (PDF)](docs/AIMMS_v1.0_Whitepaper.pdf) | Overview of ethical and industry implications. |
-| [AINMS Technical Standard (PDF)](docs/AIMMS_v1.0_Technical_Standard.pdf) | Draft of the proposed metadata schema and implementation guide. |
+| [AIMMS Technical Standard (PDF)](docs/AIMMS_v1.0_Technical_Standard.pdf) | Draft of the proposed metadata schema and implementation guide. |
 
 ---
 
