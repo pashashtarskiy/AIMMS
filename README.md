@@ -40,31 +40,34 @@ Its goal is to create ethical, technical, and legal clarity between:
   "human_contribution": ["lyrics", "melody", "arrangement"],
   "tools_used": ["Ableton Live", "Suno", "ElevenLabs"],
   "license": "CC-BY 4.0"
-`}`)
-<p align="center"> <sub>🌐 github.com/pashashtarskiy/AIMMS</sub> </p> ```
-⚙️ Implementation Goals
-Establish common tags for AI/human collaboration.
+}
+---
 
-Enable ethical disclosure for AI voice, text, and music models.
+### ⚙️ Implementation Goals
+- Establish common tags for AI/human collaboration.
+- Enable ethical disclosure for AI voice, text, and music models.
+- Support integration with DSPs (Spotify, Apple Music, etc.).
+- Ensure long-term interoperability between creators and platforms.
 
-Support integration with DSPs (Spotify, Apple Music, etc.).
+---
 
-Ensure long-term interoperability between creators and platforms.
-
-🤝 Contribute
-AIMMS is an open initiative.
+### 🤝 Contribute
+AIMMS is an open initiative.  
 You can:
+- Fork this repository
+- Submit issues or pull requests
+- Share feedback via GitHub Discussions
 
-Fork this repository
+---
 
-Submit issues or pull requests
+### 🪙 Attribution
+**AIMMS — Artificial Intelligence Music Metadata Standard**  
+Created by [Pasha Shtarskiy](https://github.com/pashashtarskiy)  
+Logo © 2025 AIMMS Initiative.  
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-Share feedback via GitHub Discussions
+---
 
-🪙 Attribution
-AIMMS — Artificial Intelligence Music Metadata Standard
-Created by Pasha Shtarskiy
-Logo © 2025 AIMMS Initiative.
-License: CC BY 4.0
-
-<p align="center"> <sub>🌐 github.com/pashashtarskiy/AIMMS</sub> </p> ```
+<p align="center">
+  <sub>🌐 github.com/pashashtarskiy/AIMMS</sub>
+</p>
