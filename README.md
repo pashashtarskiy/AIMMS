@@ -1,5 +1,3 @@
-Начало кода
-
 <p align="center">
   <img src="aimms_logo.png" width="180" alt="AIMMS Logo"/>
 </p>
@@ -72,4 +70,3 @@ License: CC BY 4.0
 
   🌐 [github.com/pashashtarskiy/AIMMS](https://github.com/pashashtarskiy/AIMMS)
 
-Конец кода
