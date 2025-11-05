@@ -14,7 +14,7 @@ AIMMS is an open, transparent metadata standard for AI-assisted music.
 Its goal is to create ethical, technical, and legal clarity between:  
 - human artists,  
 - AI tools,  
-- listeners, and  
+- listeners, and  AI
 - digital distribution platforms.
 
 ---
